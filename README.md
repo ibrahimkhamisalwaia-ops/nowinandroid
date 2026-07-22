@@ -21,7 +21,8 @@ The app is currently in development. The `prodRelease` variant is [available on 
 
 **Now in Android** displays content from the
 [Now in Android](https://developer.android.com/series/now-in-android) series. Users can browse for
-links to recent videos, articles and other content. Users can also follow topics they are interested
+links to recent videos, articles and other content. Users can also follow topics they are interested 
+play now and styling 
 in, and be notified when new content is published which matches interests they are following.
 
 ## Screenshots
